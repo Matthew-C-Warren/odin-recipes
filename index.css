@@ -1,3 +1,7 @@
+body {
+    background: beige;
+}
+
 .title, .links {
     font-family: "Monaco", Lucida, monospace;
     text-align: center;
@@ -11,17 +15,32 @@
 .links {
     font-size: 32px;
     font-weight: bold;
+    width: 570px;
+    margin: 0 auto;
+    background: bisque;
+    padding: 12px;
+    text-align: left;
+}
+
+.g-c-text, .v-o-text, .w-r-text {
+    padding: 8px 8px;
 }
 
 .g-c-text {
+    margin-top: 0px;
+    margin-bottom: 12px;
     background-color: rgb(76, 223, 76);
 }
 
 .v-o-text {
+    margin-top: 0px;
     background-color: orange;
+    margin-bottom: 12px
 
 }
 
 .w-r-text {
+    margin-top: 0px;
     background-color: rgb(231, 130, 147);
+    margin-bottom: 0px;
 }
