@@ -1,0 +1,27 @@
+.title, .links {
+    font-family: "Monaco", Lucida, monospace;
+    text-align: center;
+}
+
+.title {
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+.links {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.g-c-text {
+    background-color: rgb(76, 223, 76);
+}
+
+.v-o-text {
+    background-color: orange;
+
+}
+
+.w-r-text {
+    background-color: rgb(231, 130, 147);
+}
